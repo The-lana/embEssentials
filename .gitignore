@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# in src folder
+.cbp*
+*bin*
+*obj*
+*.depend
+
+# simulation
+*_backup.simu

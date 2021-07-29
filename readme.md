@@ -2,7 +2,7 @@
 
 ## LED Actuator
 
-### In Action
+### Activity 1 In Action
 
 |ON|OFF|
 |:--:|:--:|
